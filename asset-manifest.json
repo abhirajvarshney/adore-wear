@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/adore-wear/static/css/main.95266f33.chunk.css",
+    "main.js": "/adore-wear/static/js/main.0bedbd1b.chunk.js",
+    "main.js.map": "/adore-wear/static/js/main.0bedbd1b.chunk.js.map",
+    "runtime-main.js": "/adore-wear/static/js/runtime-main.7e73d010.js",
+    "runtime-main.js.map": "/adore-wear/static/js/runtime-main.7e73d010.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/adore-wear/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.515eaa3f.chunk.js": "/adore-wear/static/js/2.515eaa3f.chunk.js",
+    "static/js/2.515eaa3f.chunk.js.map": "/adore-wear/static/js/2.515eaa3f.chunk.js.map",
+    "index.html": "/adore-wear/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/adore-wear/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.95266f33.chunk.css.map": "/adore-wear/static/css/main.95266f33.chunk.css.map",
+    "static/js/2.515eaa3f.chunk.js.LICENSE.txt": "/adore-wear/static/js/2.515eaa3f.chunk.js.LICENSE.txt",
+    "static/media/logo.ef31689e.png": "/adore-wear/static/media/logo.ef31689e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e73d010.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.515eaa3f.chunk.js",
+    "static/css/main.95266f33.chunk.css",
+    "static/js/main.0bedbd1b.chunk.js"
+  ]
+}
