@@ -20,6 +20,8 @@ const Navbar = ({ totalItems, setSearchTerm }) => {
   }, [searchItem]);
 
   const classes = useStyles();
+  // const width = window.innerWidth();
+
   return (
     <>
       <div className={classes.root}>
@@ -37,7 +39,7 @@ const Navbar = ({ totalItems, setSearchTerm }) => {
             </Typography>
 
             <div className={classes.navbuttons}>
-              <NavLink to="/">
+              <NavLink to="/adore-wear">
                 {" "}
                 <Button
                   variant="contained"
@@ -63,6 +65,7 @@ const Navbar = ({ totalItems, setSearchTerm }) => {
                 </Button>
               </NavLink>
             </div>
+
             <div className={classes.search}>
               <div className={classes.searchIcon}>
                 <SearchIcon />
@@ -77,6 +80,7 @@ const Navbar = ({ totalItems, setSearchTerm }) => {
                 inputProps={{ "aria-label": "search" }}
               />
             </div>
+
             <div className={classes.grow} />
             <div className={classes.button}>
               <IconButton

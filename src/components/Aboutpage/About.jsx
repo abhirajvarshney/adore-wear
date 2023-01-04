@@ -14,13 +14,9 @@ const About = () => {
               <hr />
               <h5>Abhiraj Varshney (1900820100006)</h5>
               <hr />
-              <h5>Abhishek kumar Yadav (1900820100009)</h5>
+              <p>B tech, CSE</p>
               <hr />
-              <h5>Arvind Maurya (1900820100027)</h5>
-              <hr />
-              <h5>Geetanjali Chauhan (1900820100047)</h5>
-              <hr />
-              <h5>Harsh Ruhela (1900820100050)</h5>
+              <p>moradabad institute of technology</p>
 
               <p className="profile-rating mt-3 mb-5">
                 RANKINGS <span>8/10</span>

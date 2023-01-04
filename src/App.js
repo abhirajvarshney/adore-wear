@@ -88,7 +88,7 @@ function App() {
       <div>
         <Navbar totalItems={cart.total_items} setSearchTerm={setSearchTerm} />
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/adore-wear">
             <Products
               products={products}
               onAddToCart={handleAddToCart}
